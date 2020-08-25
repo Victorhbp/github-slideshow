@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <meta charset="=UFT-8">
+    <title>Calendário</title>
+    </head>
+    <body>
+        <table>
+            <tr>
+                <td><input type="date"></td>
+            </tr>
+        </table>
+    </body>
+
+</html>
